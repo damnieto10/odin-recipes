@@ -2,7 +2,8 @@
     
     font-size: 50px;
     background-color: yellow;
-    
+    text-align: center;
+
 }
 
 .recipe {
@@ -10,5 +11,22 @@
     font-size: 20px;
     background-color: green;
     font-family:'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+
+}
+
+.ingredients {
+
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: green;
+}
+
+.steps {
+
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
 
 }
