@@ -1,8 +1,12 @@
+
+
+
+
 .header {
-    
     font-size: 50px;
     background-color: yellow;
     text-align: center;
+    width: auto;
 }
 
 .recipe {
@@ -37,7 +41,6 @@
     font-size: 18px;
     color: brown;
     font-family:'Times New Roman', Times, serif;
-
 }
 
 h1 {
